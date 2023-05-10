@@ -1,5 +1,6 @@
 # Project-API-Express
 Projeto: API com Express 
 
-Usamos o Postman para poder fazer os testes a respeito do projeto;
-Criamos uma estrutura CRUD e fizemos teste executando cada operação
+Uso do Postman para poder fazer os testes do projeto;
+ Criei um CRUD(operações básicas de um banco de dados);
+ Usei os padrões middleware
